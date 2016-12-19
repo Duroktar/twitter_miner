@@ -1,2 +1,5 @@
 venv/*
+*.pyc
+*.pyo
+src/secret.json
 
