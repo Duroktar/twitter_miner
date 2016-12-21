@@ -1,5 +1,7 @@
 venv/*
 *.pyc
 *.pyo
+.vscode/*
 src/secret.json
-
+secret.json.backup
+build/

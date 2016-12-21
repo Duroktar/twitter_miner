@@ -1,0 +1,5 @@
+Install and run.
+
+Secret keys are stored in `\%home%\.twitmine\secret.json`
+
+Run config to change your key.

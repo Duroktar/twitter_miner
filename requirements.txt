@@ -1,0 +1,16 @@
+arrow==0.10.0
+configparser==3.5.0
+Jinja2==2.8
+MarkupSafe==0.23
+marshmallow==2.10.5
+oauthlib==2.0.1
+pathlib==1.0.1
+pynsist==1.9
+python-dateutil==2.6.0
+requests==2.12.4
+requests-download==0.1.1
+requests-oauthlib==0.7.0
+six==1.10.0
+tweepy==3.5.0
+win-cli-launchers==0.1
+yarg==0.1.9
